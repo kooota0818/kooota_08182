@@ -1,7 +1,3 @@
-.right{
-  text-align: right;
-}
-
-body{
-border: solid;
+.child{
+  float: left;
 }
