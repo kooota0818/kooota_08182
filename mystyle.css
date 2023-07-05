@@ -1,3 +1,6 @@
-p{
-  text-align: right;
-}
+*{
+margin: 0;
+padding: 0;
+box-size: broder-box;
+font-family: "Noto Sans JP", sans-serlf;
+}  
