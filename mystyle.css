@@ -10,4 +10,5 @@ font-family: "Noto Sans JP", sans-serlf;
   height:100vh;
   background-image: url("./image/mizsutama.jpg");
   backgroud-pasition: center;
+  bacground-size: cover;
 }
