@@ -1,14 +1,38 @@
-*{
-margin: 0;
-padding: 0;
-box-size: broder-box;
-font-family: "Noto Sans JP", sans-serlf;
-}  
+@charset "UFT-8";
 
-.hedader{
-  width:100%;
-  height:100vh;
-  background-image: url("./image/mizsutama.jpg");
-  backgroud-pasition: center;
-  bacground-size: cover;
+html {
+  font-size: 100px;
 }
+body {
+  colar: #24292e;
+}
+a{
+  text-decoration: none;
+}
+img{
+  maxwidth: 100%;
+}
+li{
+  list-style: nome;
+}
+
+.wrapper {
+  max-width: 960px;
+  margin: 0 auto 130px auto;
+  font-size: 0.9rem;
+  padding: 0.4%;
+}
+.site-title{
+  line-height: 1px;
+}
+.site-title a {
+  display: block;
+}
+.sec-title{
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+
+  
